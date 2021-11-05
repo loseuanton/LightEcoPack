@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "B522FCDF-B9A9-4029-B269-1FF93559BD98"
+   type = "0"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "BAD689B2-ACC0-42FF-9859-CA9646259FC6"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LightEcoPack/Screens/CategoriesVC/CategoriesVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "BAD689B2-ACC0-42FF-9859-CA9646259FC6 - 5c0070e4ef5ea989"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "LightEcoPack.CategoriesVC.viewDidLoad() -&gt; ()"
+                  moduleName = "LightEcoPack"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Admin/Documents/LightEcoPack/LightEcoPack/Screens/CategoriesVC/CategoriesVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "126">
+               </Location>
+               <Location
+                  uuid = "BAD689B2-ACC0-42FF-9859-CA9646259FC6 - 9b75b481cff1ee8e"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (__C.FIRDataSnapshot) -&gt; () in LightEcoPack.CategoriesVC.viewDidLoad() -&gt; ()"
+                  moduleName = "LightEcoPack"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/Admin/Documents/LightEcoPack/LightEcoPack/Screens/CategoriesVC/CategoriesVC.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "24"
+                  endingLineNumber = "24"
+                  offsetFromSymbolStart = "128">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "406A627F-B09D-4FFA-A5EA-A61D66339131"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LightEcoPack/Screens/CategoriesVC/CategoriesVC.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "37"
+            endingLineNumber = "37"
+            landmarkName = "viewDidLoad()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
